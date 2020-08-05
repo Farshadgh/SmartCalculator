@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>869601149251-97tehfutra3j2o4dvl5d9gaubom9bmqb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.869601149251-97tehfutra3j2o4dvl5d9gaubom9bmqb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDebsNCSMeoZ0hvUbA-il00Xq7ci0i7rRQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>869601149251</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.farshad.SmartCalculator</string>
+	<key>PROJECT_ID</key>
+	<string>calculator-16500</string>
+	<key>STORAGE_BUCKET</key>
+	<string>calculator-16500.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:869601149251:ios:c6a4f1f0581264d443aff6</string>
+	<key>DATABASE_URL</key>
+	<string>https://calculator-16500.firebaseio.com</string>
+</dict>
+</plist>
